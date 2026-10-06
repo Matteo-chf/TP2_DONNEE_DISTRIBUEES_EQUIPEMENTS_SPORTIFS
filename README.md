@@ -1,4 +1,4 @@
-# TP2 DONNEE DISTRIBUEES --- API equipements.sports.gouv.fr
+# TP2 DONNEE DISTRIBUEES --- API Equipements.sports.gouv.fr
 
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjN1NXFyeXJheXUzamxyaDJiMW4wOHNmdGpoOXlpZGh1Yjkwa3A0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfzWQmY3Q9Zw/zT6eLPuZsiIkvRoeBj/giphy.gif" alt="Stade" width="400">
