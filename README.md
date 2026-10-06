@@ -1,5 +1,9 @@
 # TP2_DONNEE_DISTRIBUEES_EQUIPEMENTS_SPORTIFS
 
+<p  align="center">
+  <img src='https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjN1NXFyeXJheXUzamxyaDJiMW4wOHNmdGpoOXlpZGh1Yjkwa3A0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zT6eLPuZsiIkvRoeBj/giphy.gif" alt="Stade" width="400">
+
+  </p>
 ## Sujet
 
 Gestion et interrogation d'une base de données distribuée pour des **infrastructures sportives françaises**.  
