@@ -1,4 +1,4 @@
-# TP 2 — Exploitation des Données avec Apache Cassandra
+# TP2_DONNEE_DISTRIBUEES_EQUIPEMENTS_SPORTIFS
 
 ## Sujet
 
